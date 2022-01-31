@@ -140,5 +140,12 @@
 		<input type="Search" name="Search" placeholder="Enter Keyword">
 		<input type="Submit" name="Search"></p>
 	</form>
+	<iframe width="700" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=2E255820BABCC8E3%215109&authkey=%21ACpQ81Qn8xsHSHI&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+	<div id="myExcelDiv" style="width: 700px; height: 900px"></div>
+<!-- * This code uses the Microsoft Office Excel Javascript object model to programmatically insert the
+	 * Excel Web App into a div with id=myExcelDiv. The full API is documented at
+	 * https://msdn.microsoft.com/en-US/library/hh315812.aspx. There you can find out how to programmatically get
+	 * values from your Excel file and how to use the rest of the object model. -->
+<script type="text/javascript" src="https://onedrive.live.com/embed?resid=2E255820BABCC8E3%215109&authkey=%21ACpQ81Qn8xsHSHI&em=3&wdDivId=%22myExcelDiv%22&wdDownloadButton=1&wdHideGridlines=1&wdHideHeaders=1&wdAllowInteractivity=0"></script>
 </body>
 </html>
